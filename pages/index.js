@@ -34,7 +34,7 @@ export default function Home() {
               </li>
               <li>
                   <a href="https://codepen.io/aledebarba" target="_blank">
-                      <img src="./images/icons/Codepen.svg" alt="Codepen icon"/>
+                      <img src="./images/icons/codepen.svg" alt="Codepen icon"/>
                       <p>Codepen</p>
                   </a>
               </li>
